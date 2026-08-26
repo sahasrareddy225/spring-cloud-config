@@ -1,3 +1,4 @@
 app.message=Hello from Spring Cloud Config Server
 app.college=KL University
 app.course=Microservices
+app.year=2026
